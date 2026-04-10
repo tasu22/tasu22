@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com""")/>>
+  <img src="https://komarev.com" />
 </p>
 
 ---
@@ -39,8 +39,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://vercel.app" height="150""")/>>
-  <img src="https://vercel.app" height="150""")/>>
+  <img src="https://vercel.app" height="150" />
+  <img src="https://vercel.app" height="150" />
 </p>
 
 ---
@@ -48,10 +48,10 @@
 ### 📬 Let's Connect
 
 <p align="left">
-  <a href="https://www.instagram.com/alt__28/" target="_blank">
+  <a href="https://instagram.com" target="_blank">
     <img src="https://shields.io" alt="Instagram" />
   </a>
-  <a href="https://www.tiktok.com/@_.allens" target="_blank">
+  <a href="https://tiktok.com" target="_blank">
     <img src="https://shields.io" alt="TikTok" />
   </a>
 </p>
