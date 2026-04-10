@@ -4,6 +4,10 @@
   <em>A minimalist perfectionist crafting digital calm through code & design.</em>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com""")/>>
+</p>
+
 ---
 
 ### 🌱 About Me
@@ -19,44 +23,35 @@
 
 ---
 
-### 🚀 What I’m Working On
-
-- ✨ Flutter projects (UI-first, clean architecture)
-- 🌐 Polishing my web design skills
-- 📈 Collaborating on open source and side projects
-
----
-
 ### 🧩 Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/-Flutter-000?style=for-the-badge&logo=flutter&logoColor=white&labelColor=02569B" />
-  <img src="https://img.shields.io/badge/-Dart-000?style=for-the-badge&logo=dart&logoColor=white&labelColor=0175C2" />
-  <img src="https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma&logoColor=white&labelColor=F24E1E" />
-  <img src="https://img.shields.io/badge/-Swift-000?style=for-the-badge&logo=swift&logoColor=white&labelColor=FA7343" />
-  <img src="https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase&logoColor=black&labelColor=FFCA28" />
-  <img src="https://img.shields.io/badge/-Supabase-000?style=for-the-badge&logo=supabase&logoColor=white&labelColor=3ECF8E" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
 </p>
-
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tasu22&show_icons=true&theme=calm&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasu22&layout=compact&theme=calm&hide_border=true" height="150"/>
+  <img src="https://vercel.app" height="150""")/>>
+  <img src="https://vercel.app" height="150""")/>>
 </p>
 
 ---
 
-### 📬 Let’s Connect
+### 📬 Let's Connect
 
-- TikTok: [@_.allens](https://www.tiktok.com/@_.allens)
-
----
-
-<!-- visitor count badge (optional) -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=allentasu&label=Profile+Views&color=7FBC8C&style=flat"/>
+<p align="left">
+  <a href="https://www.instagram.com/alt__28/" target="_blank">
+    <img src="https://shields.io" alt="Instagram" />
+  </a>
+  <a href="https://www.tiktok.com/@_.allens" target="_blank">
+    <img src="https://shields.io" alt="TikTok" />
+  </a>
 </p>
