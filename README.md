@@ -75,15 +75,6 @@ class AllenTasu extends Developer {
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=tasu22&theme=onedark&column=7&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
