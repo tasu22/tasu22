@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a8e6cf,100:3d9970&height=200&section=header&text=Allen%20Tasu&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Crafting%20digital%20calm%20through%20code%20%26%20design&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d4f35,50:1a7a52,100:2da870&height=200&section=header&text=Allen%20Tasu&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Crafting%20digital%20calm%20through%20code%20%26%20design&descAlignY=58&descSize=16&descColor=c8f7e0&animation=fadeIn" width="100%" />
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3D9970&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Allen+Tasu+%F0%9F%91%8B;Mobile+%26+Web+Developer;Flutter+%7C+Swift+%7C+UI%2FUX+Enthusiast;Minimalist+%E2%80%A2+Perfectionist+%E2%80%A2+Creator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3D9970&center=true&vCenter=true&random=false&width=700&lines=Hey+there!+I'm+Allen+Tasu+%F0%9F%91%8B;Mobile+%26+Web+Developer;Flutter+%7C+Swift+%7C+UI%2FUX+Enthusiast;Python+%7C+R+%7C+C%2B%2B+%7C+SQL+Programmer;Computer+Networks+%26+Systems;Minimalist+%E2%80%A2+Perfectionist+%E2%80%A2+Creator" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -25,13 +25,16 @@
 class AllenTasu extends Developer {
   final String location      = "🌍 East Africa";
   final String focus         = "Mobile & Web Apps";
-  final List<String> stack   = ["Flutter", "Dart", "Swift", "Firebase", "Supabase"];
+  final List<String> stack   = ["Flutter", "Dart", "Swift", "Python", "R", "C++", "SQL", "Firebase", "Supabase"];
   final String aesthetic     = "Pastel green • Clean interfaces • Breathing room";
   final String philosophy    = "Minimalist perfectionist — if it ships, it ships right.";
   final String funFact       = "\"If it's not inside you, you're safe — it can't kill you.\"";
 
   @override
   String get currentlyLearning => "Swift + SwiftUI & advanced animations";
+
+  @override
+  List<String> get strongSuits => ["Python", "R Programming", "C++", "SQL", "Computer Networks"];
 
   @override
   bool get openToCollaboration => true;
@@ -49,6 +52,16 @@ class AllenTasu extends Developer {
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
+### 🧠 Languages
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🌐 Networking & Systems
+![Computer Networks](https://img.shields.io/badge/Computer%20Networks-3d9970?style=for-the-badge&logo=cisco&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-0d4f35?style=for-the-badge&logo=cloudflare&logoColor=white)
+
 ### 🎨 Design
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
@@ -56,6 +69,7 @@ class AllenTasu extends Developer {
 ![Firebase](https://img.shields.io/badge/Firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🛠️ Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -86,7 +100,7 @@ class AllenTasu extends Developer {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=tasu22&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=tasu22&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4&row=2" width="100%" />
 
 </div>
 
