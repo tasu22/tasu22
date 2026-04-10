@@ -27,7 +27,7 @@
 class AllenTasu extends Developer {
   final String location      = "🌍 East Africa";
   final String focus         = "Mobile & Web Apps";
-  final List<String> stack   = ["Flutter", "Dart", "Swift", "Python", "R", "C++", "SQL", "Firebase", "Supabase"];
+  final List<String> stack   = ["Flutter", "Dart", "Swift", "JavaScript", "Python", "R", "C++", "SQL", "Firebase", "Supabase"];
   final String aesthetic     = "Pastel green • Clean interfaces • Breathing room";
   final String philosophy    = "Minimalist perfectionist — if it ships, it ships right.";
   final String funFact       = "\"If it's not inside you, you're safe — it can't kill you.\"";
@@ -52,7 +52,7 @@ class AllenTasu extends Developer {
 | Category | Skills |
 |:---:|:---|
 | 📱 **Mobile & Frontend** | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) |
-| 🧠 **Languages** | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white) |
+| 🧠 **Languages** | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white) |
 | 🌐 **Networking & Systems** | ![Computer Networks](https://img.shields.io/badge/Computer%20Networks-3d9970?style=for-the-badge&logo=cisco&logoColor=white) ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-0d4f35?style=for-the-badge&logo=cloudflare&logoColor=white) |
 | 🎨 **Design** | ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) |
 | ☁️ **Backend & Database** | ![Firebase](https://img.shields.io/badge/Firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) |
@@ -81,7 +81,7 @@ class AllenTasu extends Developer {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=tasu22&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4&row=2" width="100%" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=tasu22&theme=onedark&column=7&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
