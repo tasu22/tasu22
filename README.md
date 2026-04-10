@@ -27,7 +27,7 @@
 class AllenTasu extends Developer {
   final String location      = "🌍 East Africa";
   final String focus         = "Mobile & Web Apps";
-  final List<String> stack   = ["Flutter", "Dart", "Swift", "JavaScript", "Python", "R", "C++", "SQL", "Firebase", "Supabase"];
+  final List<String> stack   = ["Flutter", "Dart", "Swift", "JavaScript", "TypeScript", "Java", "Python", "R", "C++", "SQL", "Firebase", "Supabase"];
   final String aesthetic     = "Pastel green • Clean interfaces • Breathing room";
   final String philosophy    = "Minimalist perfectionist — if it ships, it ships right.";
   final String funFact       = "\"If it's not inside you, you're safe — it can't kill you.\"";
@@ -36,7 +36,7 @@ class AllenTasu extends Developer {
   String get currentlyLearning => "Swift + SwiftUI & advanced animations";
 
   @override
-  List<String> get strongSuits => ["Python", "R Programming", "C++", "SQL", "Computer Networks"];
+  List<String> get strongSuits => ["Dart", "Python", "JavaScript", "TypeScript", "Java", "R Programming", "C++", "SQL", "Computer Networks"];
 
   @override
   bool get openToCollaboration => true;
