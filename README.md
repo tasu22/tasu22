@@ -1,7 +1,9 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a3d26,100:1f7a52&height=200&section=header&text=Allen%20Tasu&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Crafting%20digital%20calm%20through%20code%20%26%20design&descAlignY=58&descSize=18&descColor=c8f7e0&animation=fadeIn" width="100%" />
+<!-- Name Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Lexend&weight=700&size=55&pause=99999&color=3D9970&center=true&vCenter=true&repeat=false&width=700&height=100&lines=Allen+Tasu" alt="Allen Tasu" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Lexend&weight=400&size=16&pause=99999&color=888888&center=true&vCenter=true&repeat=false&width=600&height=35&lines=Crafting+digital+calm+through+code+%26+design" alt="Subtitle" />
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
